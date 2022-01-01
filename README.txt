@@ -1,1 +1,3 @@
-The function to create costs incurred for each payment method
+Paypal express for S-Cart ecommerce
+Use package: `paypal/paypal-checkout-sdk`
+
