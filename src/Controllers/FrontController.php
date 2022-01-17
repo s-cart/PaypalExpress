@@ -3,7 +3,7 @@
 namespace App\Plugins\Payment\PaypalExpress\Controllers;
 
 use App\Plugins\Payment\PaypalExpress\AppConfig;
-use App\Http\Controllers\RootFrontController;
+use SCart\Core\Front\Controllers\RootFrontController;
 use App\Plugins\Payment\PaypalExpress\Lib\CreateOrder;
 use App\Plugins\Payment\PaypalExpress\Lib\CaptureOrder;
 use SCart\Core\Front\Controllers\ShopCartController;
