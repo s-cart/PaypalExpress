@@ -7,5 +7,5 @@
     "configGroup": "Plugins",
     "configCode": "Payment",
     "configKey": "PaypalExpress",
-    "version": "4.0"
+    "version": "5.0"
 }
